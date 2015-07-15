@@ -2,6 +2,8 @@
 Drive a car, the car avance is you shout in a micro (if you don't have micro `up` and `down` works fine). 
 Bonus if you have a Wiichuck controller and a Arduino. 
 
+![screenshot](screenshot.png)
+
 # How to install it.
 
 This version also work with a num-chuck and an arduino. Please uncomment the line in the `pde` file.
